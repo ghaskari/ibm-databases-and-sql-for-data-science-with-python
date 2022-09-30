@@ -1,4 +1,4 @@
-# ibm-databases-and-sql-for-data-science-with-python
+# IBM Databases and SQL for Data Science with Python
 
 The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get the steps to start with performing SQL access in a data science environment. 
 Key skills include:
