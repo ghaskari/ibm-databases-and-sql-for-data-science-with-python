@@ -9,3 +9,6 @@ Key skills include:
 
 
 #### [Databases and SQL for Data Science with Python Certificate](https://www.coursera.org/account/accomplishments/certificate/9QRL9TMXQZ6Q)
+
+<img width="741" alt="image" src="https://user-images.githubusercontent.com/103450551/193208914-d4035b24-d3f2-45ac-8789-741aeba16020.png">
+
